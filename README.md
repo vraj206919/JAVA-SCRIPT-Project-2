@@ -1,5 +1,7 @@
 # JavaScript Mini Projects
 
+VIDEO LINK 2 : - https://drive.google.com/file/d/1qIMIAUnRQ1odsq6EobCfqHC0vdE7JoUs/view?usp=sharing
+
 ### 1. Even Odd Checker
 Checks whether the entered number is even or odd using JavaScript.
 
